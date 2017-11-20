@@ -25,7 +25,7 @@ SECRET_KEY = 'yjc7_hya=^4^ra!3bzwp$=%6v-&%6sypy!bi&%662a%jwef)ce'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [u'OPUG.pythonanywhere.com', '192.168.0.6']
+ALLOWED_HOSTS = [u'seenaomi.pythonanywhere.com', '192.168.0.6']
 
 
 # Application definition
