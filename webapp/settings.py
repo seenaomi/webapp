@@ -121,7 +121,7 @@ STATIC_URL = '/static/'
 
 # default static files settings for PythonAnywhere.
 # see https://help.pythonanywhere.com/pages/DjangoStaticFiles for more info
-MEDIA_ROOT = u'/home/OPUG/webapp/media'
+MEDIA_ROOT = u'/home/seenaomi/webapp/media'
 MEDIA_URL = '/media/'
-STATIC_ROOT = u'/home/OPUG/webapp/static'
+STATIC_ROOT = u'/home/seenaomi/webapp/static'
 STATIC_URL = '/static/'
